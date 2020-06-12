@@ -1,0 +1,65 @@
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\linnik\Desktop\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+E:\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+E:\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+E:\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+E:\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+E:\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+E:\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+E:\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+E:\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+E:\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\1\Desktop\MyPaint(ne my)\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\PRG\Старое с лита пеинт и ас\Ivan_Savenko OP\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\1\Desktop\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\1\Desktop\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\1\Desktop\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\1\Desktop\MyPaint_v2\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\1\Desktop\PABOTAET HEMHOGO\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\myPaint Working build\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\1\Desktop\myPaint Working build\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\1\Desktop\myPaint Working build\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\1\Desktop\myPaint Working build\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\1\Desktop\myPaint Working build\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\1\Desktop\myPaint Working build\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\myPaint Working build\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\1\Desktop\myPaint Working build\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\1\Desktop\myPaint Working build\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
